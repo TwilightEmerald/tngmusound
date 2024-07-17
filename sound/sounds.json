@@ -1,0 +1,14 @@
+{
+  "tngmu:suit.iron_man.extremis.disable": {
+    "category": "player",
+    "sounds": [
+      "extremis_disable"
+    ]
+  },
+  "tngmu:suit.iron_man.extremis.enable": {
+    "category": "player",
+    "sounds": [
+      "extremis_enable"
+        ]
+    }
+}
